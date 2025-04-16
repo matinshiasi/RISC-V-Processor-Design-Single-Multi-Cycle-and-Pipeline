@@ -1,0 +1,463 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vALU
+Z0 !s110 1735400851
+!i10b 1
+!s100 c?EXPaJ6Sl4G4Q4W<VmgV0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IbjeajJ78U4c1JoH8]5L>>1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/Asus/Desktop/CA3
+Z4 w1734512203
+Z5 8C:\Users\Asus\Desktop\CA3\Modules.v
+Z6 FC:\Users\Asus\Desktop\CA3\Modules.v
+!i122 310
+L0 3 17
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1735400851.000000
+Z9 !s107 C:\Users\Asus\Desktop\CA3\Modules.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Asus\Desktop\CA3\Modules.v|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+n@a@l@u
+vALUcontroller
+R0
+!i10b 1
+!s100 9AO0U6<7VSYI7?PcOl>ng0
+R1
+ImY1T<S0_fmm5n1V>iC[M^0
+R2
+R3
+Z13 w1734512787
+Z14 8C:\Users\Asus\Desktop\CA3\controller.v
+Z15 FC:\Users\Asus\Desktop\CA3\controller.v
+!i122 309
+L0 141 28
+R7
+r1
+!s85 0
+31
+R8
+Z16 !s107 C:\Users\Asus\Desktop\CA3\controller.v|
+Z17 !s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Asus\Desktop\CA3\controller.v|
+!i113 1
+R11
+R12
+n@a@l@ucontroller
+vbranchController
+R0
+!i10b 1
+!s100 1zZfh6f9>80PYYB;?M[Mi2
+R1
+IC0;`[9LGMknJ2h<TbWET72
+R2
+R3
+R13
+R14
+R15
+!i122 309
+L0 171 25
+R7
+r1
+!s85 0
+31
+R8
+R16
+R17
+!i113 1
+R11
+R12
+nbranch@controller
+vcontroller
+R0
+!i10b 1
+!s100 ei_2UVaz4:4Ma0BdAi[7k0
+R1
+Ilfh1:;7EO^[koiNZbiVAz2
+R2
+R3
+R13
+R14
+R15
+!i122 309
+L0 1 9
+R7
+r1
+!s85 0
+31
+R8
+R16
+R17
+!i113 1
+R11
+R12
+vDataPath
+R0
+!i10b 1
+!s100 ek^<Z3g8c_@_4aklz6jh62
+R1
+I6_D?@TWJJ_2cYcb2EAU=22
+R2
+R3
+w1734512602
+8C:\Users\Asus\Desktop\CA3\DataPath.v
+FC:\Users\Asus\Desktop\CA3\DataPath.v
+!i122 311
+L0 1 22
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:\Users\Asus\Desktop\CA3\DataPath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Asus\Desktop\CA3\DataPath.v|
+!i113 1
+R11
+R12
+n@data@path
+vDM
+R0
+!i10b 1
+!s100 >314S8clA1L6;HMZ9BMVZ3
+R1
+IQnil`aRF<4a7ZD70U@?mj1
+R2
+R3
+R4
+R5
+R6
+!i122 310
+L0 34 25
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@d@m
+vDP
+!s110 1734511178
+!i10b 1
+!s100 [9EI78m5jR[^L<iZJZK:C3
+R1
+IIO5^;9Sd>87ehNN>Dbh>_1
+R2
+R3
+w1734169575
+8C:\Users\Asus\Desktop\neg\DP.v
+FC:\Users\Asus\Desktop\neg\DP.v
+!i122 239
+L0 1 51
+R7
+r1
+!s85 0
+31
+!s108 1734511177.000000
+!s107 C:\Users\Asus\Desktop\neg\DP.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Asus\Desktop\neg\DP.v|
+!i113 1
+R11
+R12
+n@d@p
+vimmediateExtend
+R0
+!i10b 1
+!s100 h_S3cT27:0zHhO[LXh?mY2
+R1
+IJT_a<^kf]k92z=^1o;h?b0
+R2
+R3
+R4
+R5
+R6
+!i122 310
+L0 95 27
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+nimmediate@extend
+vmainController
+R0
+!i10b 1
+!s100 P5OBLeUDBX0@OHXl@SDlz2
+R1
+I0HRUHHT824a]6ARY=]BiZ0
+R2
+R3
+R13
+R14
+R15
+!i122 309
+L0 11 98
+R7
+r1
+!s85 0
+31
+R8
+R16
+R17
+!i113 1
+R11
+R12
+nmain@controller
+vmux2to1
+R0
+!i10b 1
+!s100 `FliV;0Mi4kk8e<La@1ZJ1
+R1
+I1OLG>]_:e4koO^6S8mQZe0
+R2
+R3
+R4
+R5
+R6
+!i122 310
+L0 21 3
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vmux4to1
+R0
+!i10b 1
+!s100 aWUEAhC0Ce7UTY1a5E9F00
+R1
+I_ZJ0ldhJD>=095ezFO>n=0
+R2
+R3
+R4
+R5
+R6
+!i122 310
+L0 26 6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vOPCDecoder
+R0
+!i10b 1
+!s100 mUN@4m56PlS`V382Re`<f1
+R1
+I2PP^YVz9>ccX9l^BAeE7T2
+R2
+R3
+R13
+R14
+R15
+!i122 309
+L0 111 28
+R7
+r1
+!s85 0
+31
+R8
+R16
+R17
+!i113 1
+R11
+R12
+n@o@p@c@decoder
+vPC_Counter
+R0
+!i10b 1
+!s100 =gJ?lJCJ8dRgc1aaOm02W3
+R1
+I;?Xe>9YbhMbKnbnA?TnQI1
+R2
+R3
+R4
+R5
+R6
+!i122 310
+L0 60 14
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@p@c_@counter
+vPCOLDIR
+R0
+!i10b 1
+!s100 eL581>f5@:loiIj7AcQ873
+R1
+IPcDT_O6024YglUbeYa2h03
+R2
+R3
+R4
+R5
+R6
+!i122 310
+L0 75 19
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@p@c@o@l@d@i@r
+vproccesor
+R0
+!i10b 1
+!s100 ;Yk^4>zMzcoBZSQWNTGVI1
+R1
+IUfZhMJdQk:H2<=80_kIel3
+R2
+R3
+w1734513552
+8C:\Users\Asus\Desktop\CA3\TopModule.v
+FC:\Users\Asus\Desktop\CA3\TopModule.v
+!i122 312
+L0 2 46
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:\Users\Asus\Desktop\CA3\TopModule.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Asus\Desktop\CA3\TopModule.v|
+!i113 1
+R11
+R12
+vRegister
+R0
+!i10b 1
+!s100 O<ILh^O5G?Nc`OBK3ND<N0
+R1
+IebK@FFB^G8YN2>]iAd9:a0
+R2
+R3
+R4
+R5
+R6
+!i122 310
+L0 123 14
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@register
+vRegisterFile
+R0
+!i10b 1
+!s100 2MN6G4a_;i;Jd9jaW?4Rh1
+R1
+I<6V0=XbbUl@MWamX<NZ8Y2
+R2
+R3
+R4
+R5
+R6
+!i122 310
+L0 138 29
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@register@file
+vTB
+R0
+!i10b 1
+!s100 <]gFW2NETQ<L4<9eAFIf?0
+R1
+I`FIRGk4RXzTKJJ<494eSK1
+R2
+R3
+w1734513604
+8C:\Users\Asus\Desktop\CA3\TB.v
+FC:\Users\Asus\Desktop\CA3\TB.v
+!i122 313
+L0 2 11
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:\Users\Asus\Desktop\CA3\TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Asus\Desktop\CA3\TB.v|
+!i113 1
+R11
+R12
+n@t@b
+vTopModule
+!s110 1734513276
+!i10b 1
+!s100 o=QlTV]k]QA>U0WfB9=Te0
+R1
+I5lnA<aRaKm78N6;WR68]51
+R2
+R3
+w1734513264
+8C:\Users\Asus\Desktop\neg\Proccesor.v
+FC:\Users\Asus\Desktop\neg\Proccesor.v
+!i122 284
+L0 1 10
+R7
+r1
+!s85 0
+31
+!s108 1734513276.000000
+!s107 C:\Users\Asus\Desktop\neg\Proccesor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Asus\Desktop\neg\Proccesor.v|
+!i113 1
+R11
+R12
+n@top@module

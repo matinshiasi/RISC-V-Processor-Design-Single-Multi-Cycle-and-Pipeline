@@ -1,0 +1,61 @@
+# Reading pref.tcl
+# OpenFile C:/Users/Asus/Desktop/CA4/CA4.mpf
+# Loading project CA4
+# Compile of Modules.v failed with 2 errors.
+# Compile of Registers.v was successful.
+# Compile of Hazard Unit.v was successful.
+# Compile of Controller.v was successful.
+# Compile of Datapath.v was successful.
+# Compile of TB.v was successful.
+# Compile of Top Module.v was successful.
+# 7 compiles, 1 failed with 2 errors.
+# Compile of Modules.v failed with 1 errors.
+# Compile of Registers.v was successful.
+# Compile of Hazard Unit.v was successful.
+# Compile of Controller.v was successful.
+# Compile of Datapath.v was successful.
+# Compile of TB.v was successful.
+# Compile of Top Module.v was successful.
+# 7 compiles, 1 failed with 1 error.
+# Compile of Modules.v was successful.
+# Compile of Registers.v was successful.
+# Compile of Hazard Unit.v was successful.
+# Compile of Controller.v was successful.
+# Compile of Datapath.v was successful.
+# Compile of TB.v was successful.
+# Compile of Top Module.v was successful.
+# 7 compiles, 0 failed with no errors.
+vsim -gui work.TB
+# vsim -gui work.TB 
+# Start time: 22:34:47 on Jan 07,2025
+# Loading work.TB
+# Loading work.proccesor
+# Loading work.DP
+# Loading work.INMemory
+# Loading work.PC_Counter
+# Loading work.adder
+# Loading work.mux2to1
+# Loading work.IFIDRegs
+# Loading work.immediateExtend
+# Loading work.RegisterFile
+# Loading work.IDEXRegs
+# Loading work.ALU
+# Loading work.mux4to1
+# Loading work.EXMERegs
+# Loading work.DM
+# Loading work.MEWBRegs
+# Loading work.HazardUnit
+# Loading work.ForwardingUnit
+# Loading work.DataHazardUnit
+# Loading work.ControlHazardUnit
+# Loading work.controller
+# Loading work.ALUcontroller
+# Loading work.OPCDecoder
+# Loading work.branchController
+run -all
+# ** Note: $stop    : C:/Users/Asus/Desktop/CA4/TB.v(18)
+#    Time: 1010 us  Iteration: 0  Instance: /TB
+# Break in Module TB at C:/Users/Asus/Desktop/CA4/TB.v line 18
+quit -sim
+# End time: 22:38:39 on Jan 07,2025, Elapsed time: 0:03:52
+# Errors: 0, Warnings: 4

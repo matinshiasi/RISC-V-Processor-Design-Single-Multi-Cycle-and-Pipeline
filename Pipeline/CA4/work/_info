@@ -1,0 +1,582 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vadder
+Z0 !s110 1736276677
+!i10b 1
+!s100 f6nSCfgi`Yc5m24Ld>`5o1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I<UaDQM9_2Pe^Bln2DV7<j2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/Asus/Desktop/CA4
+Z4 w1736276669
+Z5 8C:\Users\Asus\Desktop\CA4\Modules.v
+Z6 FC:\Users\Asus\Desktop\CA4\Modules.v
+!i122 476
+L0 2 3
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1736276677.000000
+Z9 !s107 C:\Users\Asus\Desktop\CA4\Modules.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Asus\Desktop\CA4\Modules.v|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+vALU
+R0
+!i10b 1
+!s100 I@M7zKVlz43j]`PmXY]C91
+R1
+IW^:YW3E;]h^aFOi_FhJ@A0
+R2
+R3
+R4
+R5
+R6
+!i122 476
+L0 6 13
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@a@l@u
+vALUcontroller
+Z13 !s110 1736276678
+!i10b 1
+!s100 =j4Rd3f>Xh6QSRU4H23lh0
+R1
+IB8g@5N<@5aLZEJJQNJSFY0
+R2
+R3
+Z14 w1736270530
+Z15 8C:/Users/Asus/Desktop/CA4/Controller.v
+Z16 FC:/Users/Asus/Desktop/CA4/Controller.v
+!i122 479
+L0 23 34
+R7
+r1
+!s85 0
+31
+Z17 !s108 1736276678.000000
+Z18 !s107 C:/Users/Asus/Desktop/CA4/Controller.v|
+Z19 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Asus/Desktop/CA4/Controller.v|
+!i113 1
+R11
+R12
+n@a@l@ucontroller
+vbranchController
+R13
+!i10b 1
+!s100 N:<B05]fD_fDfRM=28zzP0
+R1
+Ig22f56>i_Og:?RZU^688<0
+R2
+R3
+R14
+R15
+R16
+!i122 479
+L0 89 23
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!i113 1
+R11
+R12
+nbranch@controller
+vControlHazardUnit
+R13
+!i10b 1
+!s100 cSYNkX_6hGI2WL0dCVMAl2
+R1
+IK^FHBjaN=9=F:^Wi7jjC]3
+R2
+R3
+Z20 w1736269538
+Z21 8C:/Users/Asus/Desktop/CA4/Hazard Unit.v
+Z22 FC:/Users/Asus/Desktop/CA4/Hazard Unit.v
+!i122 478
+L0 69 4
+R7
+r1
+!s85 0
+31
+R17
+Z23 !s107 C:/Users/Asus/Desktop/CA4/Hazard Unit.v|
+Z24 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Asus/Desktop/CA4/Hazard Unit.v|
+!i113 1
+R11
+R12
+n@control@hazard@unit
+vcontroller
+R13
+!i10b 1
+!s100 :JCUCnOOI@FYeU<iD>3GR3
+R1
+IA]VC<SU;PjOEX]7E_^Md13
+R2
+R3
+R14
+R15
+R16
+!i122 479
+L0 3 19
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!i113 1
+R11
+R12
+vDataHazardUnit
+R13
+!i10b 1
+!s100 =JK3`H=:Ba2G<BAR:Gm^61
+R1
+I]jgD=MjWT?SYVNk;VXjcd0
+R2
+R3
+R20
+R21
+R22
+!i122 478
+L0 63 5
+R7
+r1
+!s85 0
+31
+R17
+R23
+R24
+!i113 1
+R11
+R12
+n@data@hazard@unit
+vDM
+R0
+!i10b 1
+!s100 U6f5QG^:d>^NZD3CLiooR2
+R1
+IPYD5SmC[8TEZ7j_O4H=S11
+R2
+R3
+R4
+R5
+R6
+!i122 476
+L0 20 12
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@d@m
+vDP
+R13
+!i10b 1
+!s100 ]g5bG3DLBZ9ESBH0>`Q9O3
+R1
+IdmSYG^dH;elC884aj>3X11
+R2
+R3
+w1736271466
+8C:/Users/Asus/Desktop/CA4/Datapath.v
+FC:/Users/Asus/Desktop/CA4/Datapath.v
+!i122 480
+L0 1 125
+R7
+r1
+!s85 0
+31
+R17
+!s107 C:/Users/Asus/Desktop/CA4/Datapath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Asus/Desktop/CA4/Datapath.v|
+!i113 1
+R11
+R12
+n@d@p
+vEXMERegs
+R13
+!i10b 1
+!s100 JH`WH14Kn]An0@Sm=Ge1=3
+R1
+I;UXAZXe9>bL^hBn]Wl^YD1
+R2
+R3
+Z25 w1736266883
+Z26 8C:/Users/Asus/Desktop/CA4/Registers.v
+Z27 FC:/Users/Asus/Desktop/CA4/Registers.v
+!i122 477
+L0 95 43
+R7
+r1
+!s85 0
+31
+R8
+Z28 !s107 C:/Users/Asus/Desktop/CA4/Registers.v|
+Z29 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Asus/Desktop/CA4/Registers.v|
+!i113 1
+R11
+R12
+n@e@x@m@e@regs
+vForwardingUnit
+R13
+!i10b 1
+!s100 2UfF5e0`SG7Ul3eUeDlN90
+R1
+I1AXa4e3gmTHa39kF8Z7:h1
+R2
+R3
+R20
+R21
+R22
+!i122 478
+L0 32 30
+R7
+r1
+!s85 0
+31
+R17
+R23
+R24
+!i113 1
+R11
+R12
+n@forwarding@unit
+vHazardUnit
+R13
+!i10b 1
+!s100 9eZi=RZ9Fe3SO9iz2ollD3
+R1
+IkJ05WM0T=WDzdf^B>QHK70
+R2
+R3
+R20
+R21
+R22
+!i122 478
+L0 3 28
+R7
+r1
+!s85 0
+31
+R17
+R23
+R24
+!i113 1
+R11
+R12
+n@hazard@unit
+vIDEXRegs
+R13
+!i10b 1
+!s100 3gmMie<bE?;LgN`g8KEN?0
+R1
+IaY0SDX[;J6<2n;9l<:Xg=1
+R2
+R3
+R25
+R26
+R27
+!i122 477
+L0 23 71
+R7
+r1
+!s85 0
+31
+R8
+R28
+R29
+!i113 1
+R11
+R12
+n@i@d@e@x@regs
+vIFIDRegs
+R13
+!i10b 1
+!s100 ndBe4;L[emkFcmaCo<E_b2
+R1
+Ig>Nn3Qiz>ehdb_LIkg[_J0
+R2
+R3
+R25
+R26
+R27
+!i122 477
+L0 1 21
+R7
+r1
+!s85 0
+31
+R8
+R28
+R29
+!i113 1
+R11
+R12
+n@i@f@i@d@regs
+vimmediateExtend
+R0
+!i10b 1
+!s100 6EJmLz[=T]Z>WJ0ICeYiV1
+R1
+In>hLRHgI;8SI8M@Il?bE80
+R2
+R3
+R4
+R5
+R6
+!i122 476
+L0 57 12
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+nimmediate@extend
+vINMemory
+!s110 1736271948
+!i10b 1
+!s100 EbB`:Q[NcMKfb6bF0[Q1@2
+R1
+IhCmlj5Md02LTmm_WbQVIJ1
+R2
+R3
+w1736271944
+R5
+R6
+!i122 456
+L0 151 12
+R7
+r1
+!s85 0
+31
+!s108 1736271948.000000
+R9
+R10
+!i113 1
+R11
+R12
+n@i@n@memory
+vMEWBRegs
+R13
+!i10b 1
+!s100 48=>VAhJP97K5eQ^;O1^H0
+R1
+IGA?;KQa9jzCSdCeOV@X=g1
+R2
+R3
+R25
+R26
+R27
+!i122 477
+L0 139 39
+R7
+r1
+!s85 0
+31
+R8
+R28
+R29
+!i113 1
+R11
+R12
+n@m@e@w@b@regs
+vmux2to1
+R0
+!i10b 1
+!s100 X5EQXaBJ^lXzMkHM8N8bJ2
+R1
+InUD3i9V4NC<PZ7I1DGJ;=1
+R2
+R3
+R4
+R5
+R6
+!i122 476
+L0 70 3
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vmux4to1
+R0
+!i10b 1
+!s100 >fjLc6g6W<?Z<8H[KcNn10
+R1
+I65g]B242mzakCf^@f_]_M1
+R2
+R3
+R4
+R5
+R6
+!i122 476
+L0 74 3
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vOPCDecoder
+R13
+!i10b 1
+!s100 ]9N6H9ZGBk2>_QQGkS?e?2
+R1
+InXRoXjm<QFKdYFSYEzlhT1
+R2
+R3
+R14
+R15
+R16
+!i122 479
+L0 58 30
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!i113 1
+R11
+R12
+n@o@p@c@decoder
+vPC_Counter
+R0
+!i10b 1
+!s100 a2HK4`d0YH_SeOi4Z57LP1
+R1
+I`M<zh@bY8JSX7G7gAKSAM2
+R2
+R3
+R4
+R5
+R6
+!i122 476
+L0 78 6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@p@c_@counter
+vproccesor
+R13
+!i10b 1
+!s100 V`@3RDK8<^j[P9_`WSD>@2
+R1
+IN0AFWJXISB2oZ:=cMGA]c3
+R2
+R3
+w1736271805
+8C:/Users/Asus/Desktop/CA4/Top Module.v
+FC:/Users/Asus/Desktop/CA4/Top Module.v
+!i122 482
+L0 4 37
+R7
+r1
+!s85 0
+31
+R17
+!s107 C:/Users/Asus/Desktop/CA4/Top Module.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Asus/Desktop/CA4/Top Module.v|
+!i113 1
+R11
+R12
+vRegisterFile
+R0
+!i10b 1
+!s100 E4k5>2gRKf4UiC>?JBZD@2
+R1
+IM]WQAe3aTXh`c><6zjlV?0
+R2
+R3
+R4
+R5
+R6
+!i122 476
+L0 85 13
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@register@file
+vTB
+R13
+!i10b 1
+!s100 4Ljo:gf;KC>=FaCk4fO3I0
+R1
+I:l_5YobFKkTXYa=:`FdiH2
+R2
+R3
+w1736271572
+8C:/Users/Asus/Desktop/CA4/TB.v
+FC:/Users/Asus/Desktop/CA4/TB.v
+!i122 481
+L0 3 18
+R7
+r1
+!s85 0
+31
+R17
+!s107 C:/Users/Asus/Desktop/CA4/TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Asus/Desktop/CA4/TB.v|
+!i113 1
+R11
+R12
+n@t@b

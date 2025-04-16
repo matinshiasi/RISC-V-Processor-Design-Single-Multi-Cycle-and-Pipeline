@@ -1,0 +1,57 @@
+C:/Users/Asus/Desktop/CA3/TopModule.v {1 {vlog -work work -stats=none {C:\Users\Asus\Desktop\CA3\TopModule.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module proccesor
+
+Top level modules:
+	proccesor
+
+} {} {}} C:/Users/Asus/Desktop/CA3/Modules.v {1 {vlog -work work -stats=none {C:\Users\Asus\Desktop\CA3\Modules.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU
+-- Compiling module mux2to1
+-- Compiling module mux4to1
+-- Compiling module DM
+-- Compiling module PC_Counter
+-- Compiling module PCOLDIR
+-- Compiling module immediateExtend
+-- Compiling module Register
+-- Compiling module RegisterFile
+
+Top level modules:
+	ALU
+	mux2to1
+	mux4to1
+	DM
+	PC_Counter
+	PCOLDIR
+	immediateExtend
+	Register
+	RegisterFile
+
+} {} {}} C:/Users/Asus/Desktop/CA3/TB.v {1 {vlog -work work -stats=none {C:\Users\Asus\Desktop\CA3\TB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TB
+
+Top level modules:
+	TB
+
+} {} {}} C:/Users/Asus/Desktop/CA3/DataPath.v {1 {vlog -work work -stats=none {C:\Users\Asus\Desktop\CA3\DataPath.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DataPath
+
+Top level modules:
+	DataPath
+
+} {} {}} C:/Users/Asus/Desktop/CA3/controller.v {2 {vlog -work work -stats=none {C:\Users\Asus\Desktop\CA3\controller.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module controller
+-- Compiling module mainController
+** Warning: C:\Users\Asus\Desktop\CA3\controller.v(99): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+-- Compiling module OPCDecoder
+-- Compiling module ALUcontroller
+-- Compiling module branchController
+
+Top level modules:
+	controller
+
+} {} {}}

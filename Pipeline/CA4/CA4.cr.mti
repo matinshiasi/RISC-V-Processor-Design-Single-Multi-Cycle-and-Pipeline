@@ -1,0 +1,79 @@
+C:/Users/Asus/Desktop/CA4/Controller.v {1 {vlog -work work -stats=none C:/Users/Asus/Desktop/CA4/Controller.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module controller
+-- Compiling module ALUcontroller
+-- Compiling module OPCDecoder
+-- Compiling module branchController
+
+Top level modules:
+	controller
+	branchController
+
+} {} {}} C:/Users/Asus/Desktop/CA4/Registers.v {1 {vlog -work work -stats=none C:/Users/Asus/Desktop/CA4/Registers.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module IFIDRegs
+-- Compiling module IDEXRegs
+-- Compiling module EXMERegs
+-- Compiling module MEWBRegs
+
+Top level modules:
+	IFIDRegs
+	IDEXRegs
+	EXMERegs
+	MEWBRegs
+
+} {} {}} C:/Users/Asus/Desktop/CA4/Modules.v {1 {vlog -work work -stats=none {C:\Users\Asus\Desktop\CA4\Modules.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder
+-- Compiling module ALU
+-- Compiling module DM
+-- Compiling module EXMERegs
+-- Compiling module immediateExtend
+-- Compiling module mux2to1
+-- Compiling module mux4to1
+-- Compiling module PC_Counter
+-- Compiling module RegisterFile
+
+Top level modules:
+	adder
+	ALU
+	DM
+	EXMERegs
+	immediateExtend
+	mux2to1
+	mux4to1
+	PC_Counter
+	RegisterFile
+
+} {} {}} {C:/Users/Asus/Desktop/CA4/Top Module.v} {1 {vlog -work work -stats=none {C:/Users/Asus/Desktop/CA4/Top Module.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module proccesor
+
+Top level modules:
+	proccesor
+
+} {} {}} C:/Users/Asus/Desktop/CA4/TB.v {1 {vlog -work work -stats=none C:/Users/Asus/Desktop/CA4/TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TB
+
+Top level modules:
+	TB
+
+} {} {}} {C:/Users/Asus/Desktop/CA4/Hazard Unit.v} {1 {vlog -work work -stats=none {C:/Users/Asus/Desktop/CA4/Hazard Unit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module HazardUnit
+-- Compiling module ForwardingUnit
+-- Compiling module DataHazardUnit
+-- Compiling module ControlHazardUnit
+
+Top level modules:
+	HazardUnit
+
+} {} {}} C:/Users/Asus/Desktop/CA4/Datapath.v {1 {vlog -work work -stats=none C:/Users/Asus/Desktop/CA4/Datapath.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DP
+
+Top level modules:
+	DP
+
+} {} {}}
